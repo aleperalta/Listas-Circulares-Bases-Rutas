@@ -1,0 +1,9 @@
+c:\users\ale_p_000\documents\visual studio 2015\Projects\ape_rutas\ape_rutas\bin\Debug\ape_rutas.exe.config
+c:\users\ale_p_000\documents\visual studio 2015\Projects\ape_rutas\ape_rutas\bin\Debug\ape_rutas.exe
+c:\users\ale_p_000\documents\visual studio 2015\Projects\ape_rutas\ape_rutas\bin\Debug\ape_rutas.pdb
+c:\users\ale_p_000\documents\visual studio 2015\Projects\ape_rutas\ape_rutas\obj\Debug\ape_rutas.Form1.resources
+c:\users\ale_p_000\documents\visual studio 2015\Projects\ape_rutas\ape_rutas\obj\Debug\ape_rutas.Properties.Resources.resources
+c:\users\ale_p_000\documents\visual studio 2015\Projects\ape_rutas\ape_rutas\obj\Debug\ape_rutas.csproj.GenerateResource.Cache
+c:\users\ale_p_000\documents\visual studio 2015\Projects\ape_rutas\ape_rutas\obj\Debug\ape_rutas.exe
+c:\users\ale_p_000\documents\visual studio 2015\Projects\ape_rutas\ape_rutas\obj\Debug\ape_rutas.pdb
+c:\users\ale_p_000\documents\visual studio 2015\Projects\ape_rutas\ape_rutas\obj\Debug\ape_rutas.csprojResolveAssemblyReference.cache
